@@ -1,5 +1,5 @@
 <h3>The application will have the following features:</h3>
-1.	There will be two types of users in the application; Registered and Unregistered. Registered users are those who have already registered with the application. All the others are unregistered users.
+1.	There will be two types of users in the application; Registered and Unregistered. Registered users are those who have already registered with the application. All the others are unregistered users.</br>
 2.	Unregistered users will have read only access to the application. They can</br>
 •	View different posts and comments</br>
 •	Search for a specific blogger or a post</br>
