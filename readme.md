@@ -3,7 +3,7 @@
 2.	Unregistered users will have read only access to the application. They can</br>
 •	View different posts and comments</br>
 •	Search for a specific blogger or a post</br>
-Unregistered users must register before creating any post or comment. To register, a unique email address and other basic information (according to your wish) is needed. The email address will be his/her username for the application.
+Unregistered users must register before creating any post or comment. To register, a unique email address and other basic information (according to your wish) is needed. The email address will be his/her username for the application.</br>
 3.	Registered users can</br>
 •	View different posts and comments</br>
 •	Create a new post</br>
